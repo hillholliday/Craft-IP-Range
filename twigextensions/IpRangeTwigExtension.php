@@ -8,7 +8,7 @@ class IpRangeTwigExtension extends \Twig_Extension
 {
     public function getName()
     {
-        return 'WordItUp';
+        return 'IPRange';
     }
 
     public function getFilters()
